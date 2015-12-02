@@ -1,0 +1,2 @@
+Binaries with static dependencies
+=================================
