@@ -1,0 +1,12 @@
+{
+    "name": "le-phare/wkhtml",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked linux binary",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-amd64"
+    ],
+    "require": {
+    }
+}
