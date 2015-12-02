@@ -5,7 +5,8 @@
     "license": "LGPL Version 3",
     "minimum-stability": "stable",
     "bin": [
-        "bin/wkhtmltopdf-amd64"
+        "bin/wkhtmltopdf",
+        "bin/wkhtmltoimage"
     ],
     "require": {
     }
